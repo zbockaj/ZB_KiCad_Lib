@@ -1,6 +1,6 @@
 (footprint "MDBT42Q-512KV2" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 6240433C)
+  (tedit 62F9FEBD)
   (descr "Raytac MDBT42Q-512KV2 BT module, 16x10mm")
   (tags "Raytac MDBT42Q")
   (attr smd)
@@ -110,7 +110,7 @@
   (pad "39" smd rect (at 4.6 -3.8 90) (size 0.8 1.4) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 5f7505cc-53a6-463b-b397-33ff845b1ac0))
   (pad "40" smd rect (at 2.9 -3.25 90) (size 0.4 1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 60fc0348-15d2-462c-9b87-dbb507b8717b))
   (pad "41" smd rect (at 2.9 -1.85 90) (size 0.4 1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 9efb25aa-d11e-4d2f-96a9-326a2f75dcc1))
-  (model "${KICAD_ZB_3D_DIR}/IC/MDBT42Q-512KV2.STEP"
+  (model "${KICAD_ZB_LIB_DIR}/3dmodels/IC/MDBT42Q-512KV2.STEP"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

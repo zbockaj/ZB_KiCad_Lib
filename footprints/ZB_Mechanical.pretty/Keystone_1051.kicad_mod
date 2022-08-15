@@ -1,6 +1,6 @@
 (footprint "Keystone_1051" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 62486754)
+  (tedit 62F9FEEA)
   (descr "Battery holder CR123A")
   (tags "Battery holder CR123A")
   (attr through_hole)
@@ -31,7 +31,7 @@
   (pad "" np_thru_hole circle (at -18.9 -8.1) (size 1 1) (drill 2) (layers F&B.Cu *.Mask) (tstamp 4f66b314-0f62-4fb6-8c3c-f9c6a75cd3ec))
   (pad "1" thru_hole oval (at -18.9 0) (size 2 3) (drill 1.2) (layers *.Cu *.Mask) (tstamp d29cff97-82a9-4306-8711-e26fb8e06960))
   (pad "2" thru_hole oval (at 18.9 0) (size 2 3) (drill 1.2) (layers *.Cu *.Mask) (tstamp d0780931-fd80-4887-ae40-469dcb55b038))
-  (model "${KICAD_ZB_3D_DIR}/Mechanical/keystone-PN1051.STEP"
+  (model "${KICAD_ZB_LIB_DIR}/3dmodels/Mechanical/keystone-PN1051.STEP"
     (offset (xyz -2.9 0 9.3))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

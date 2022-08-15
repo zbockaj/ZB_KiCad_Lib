@@ -1,6 +1,6 @@
 (footprint "PTS647SK50SMTR2LFS" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 6248675D)
+  (tedit 62F9FEFB)
   (descr "Tactile switch 4.5x4.5x5.0mm")
   (tags "Switch")
   (attr smd)
@@ -26,7 +26,7 @@
   (pad "2" smd roundrect (at 2.7 -1.6) (size 1.6 1) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp edc8f391-0b6a-4a66-802b-2b3733d943db))
   (pad "3" smd roundrect (at -2.7 1.6) (size 1.6 1) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp e726cc5d-4354-4b0e-8bd9-6aa8c2320ae5))
   (pad "4" smd roundrect (at 2.7 1.6) (size 1.6 1) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp a26a563f-dcf8-4dc3-8808-f90991ceb9fe))
-  (model "${KICAD_ZB_3D_DIR}/Mechanical/PTS647SK50SMTR2LFS.stp"
+  (model "${KICAD_ZB_LIB_DIR}/3dmodels/Mechanical/PTS647SK50SMTR2LFS.stp"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 90 90))

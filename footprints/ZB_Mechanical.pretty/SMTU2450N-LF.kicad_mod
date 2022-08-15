@@ -1,6 +1,6 @@
 (footprint "SMTU2450N-LF" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 6248676C)
+  (tedit 62F9FF0B)
   (descr "Battery holder CR2450N")
   (tags "Battery holder CR2450N")
   (attr smd)
@@ -31,7 +31,7 @@
   (fp_arc (start 8.699999 8.699999) (mid 0 12.303657) (end -8.699999 8.699999) (layer "F.SilkS") (width 0.2) (tstamp 86a23d07-80a1-4f15-b42a-92c8bd1d72df))
   (pad "1" smd rect (at -17.3 0 90) (size 4 3.4) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp d29cff97-82a9-4306-8711-e26fb8e06960))
   (pad "2" smd rect (at 17.3 0 90) (size 4 3.4) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp d0780931-fd80-4887-ae40-469dcb55b038))
-  (model "${KICAD_ZB_3D_DIR}/Mechanical/SMTU 2450N-1-LF.STEP"
+  (model "${KICAD_ZB_LIB_DIR}/3dmodels/Mechanical/SMTU 2450N-1-LF.STEP"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

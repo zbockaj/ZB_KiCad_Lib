@@ -1,6 +1,6 @@
 (footprint "LED_Kingbright_APBD3224" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 6248678A)
+  (tedit 62F9FF1B)
   (descr "LED Dual 1210 (3.2x2.4mm)")
   (attr smd)
   (fp_text reference "REF**" (at 0.1 -2.3) (layer "F.SilkS")
@@ -28,7 +28,7 @@
   (pad "2" smd roundrect (at -1.6 -0.7) (size 1.6 0.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp dd35d172-0648-415f-bb65-0e84e0f8c560))
   (pad "3" smd roundrect (at 1.6 0.7) (size 1.6 0.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 50593f0e-4b8a-4d12-ac62-bd667cbcd5fc))
   (pad "4" smd roundrect (at -1.6 0.7) (size 1.6 0.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 24da24e4-9c92-4fb1-9d6e-108dbc2080e3))
-  (model "${KICAD_ZB_3D_DIR}/Opto/APBD3224.STEP"
+  (model "${KICAD_ZB_LIB_DIR}/3dmodels/Opto/APBD3224.STEP"
     (offset (xyz 0 0 0.2))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))
